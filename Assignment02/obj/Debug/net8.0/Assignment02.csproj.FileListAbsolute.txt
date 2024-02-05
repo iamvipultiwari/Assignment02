@@ -12,3 +12,18 @@ C:\Users\Vipul Tiwari\source\repos\Assignment02\Assignment02\obj\Debug\net8.0\re
 C:\Users\Vipul Tiwari\source\repos\Assignment02\Assignment02\obj\Debug\net8.0\Assignment02.pdb
 C:\Users\Vipul Tiwari\source\repos\Assignment02\Assignment02\obj\Debug\net8.0\Assignment02.genruntimeconfig.cache
 C:\Users\Vipul Tiwari\source\repos\Assignment02\Assignment02\obj\Debug\net8.0\ref\Assignment02.dll
+C:\Users\rohit\Desktop\Assignment02\Assignment02\bin\Debug\net8.0\Assignment02.exe
+C:\Users\rohit\Desktop\Assignment02\Assignment02\bin\Debug\net8.0\Assignment02.deps.json
+C:\Users\rohit\Desktop\Assignment02\Assignment02\bin\Debug\net8.0\Assignment02.runtimeconfig.json
+C:\Users\rohit\Desktop\Assignment02\Assignment02\bin\Debug\net8.0\Assignment02.dll
+C:\Users\rohit\Desktop\Assignment02\Assignment02\bin\Debug\net8.0\Assignment02.pdb
+C:\Users\rohit\Desktop\Assignment02\Assignment02\obj\Debug\net8.0\Assignment02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit\Desktop\Assignment02\Assignment02\obj\Debug\net8.0\Assignment02.AssemblyInfoInputs.cache
+C:\Users\rohit\Desktop\Assignment02\Assignment02\obj\Debug\net8.0\Assignment02.AssemblyInfo.cs
+C:\Users\rohit\Desktop\Assignment02\Assignment02\obj\Debug\net8.0\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\rohit\Desktop\Assignment02\Assignment02\obj\Debug\net8.0\Assignment02.sourcelink.json
+C:\Users\rohit\Desktop\Assignment02\Assignment02\obj\Debug\net8.0\Assignment02.dll
+C:\Users\rohit\Desktop\Assignment02\Assignment02\obj\Debug\net8.0\refint\Assignment02.dll
+C:\Users\rohit\Desktop\Assignment02\Assignment02\obj\Debug\net8.0\Assignment02.pdb
+C:\Users\rohit\Desktop\Assignment02\Assignment02\obj\Debug\net8.0\Assignment02.genruntimeconfig.cache
+C:\Users\rohit\Desktop\Assignment02\Assignment02\obj\Debug\net8.0\ref\Assignment02.dll
