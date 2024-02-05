@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vipul Tiwari\\source\\repos\\Assignment02\\Assignment02\\Assignment02.csproj": {}
+    "C:\\Users\\rohit\\Desktop\\Assignment02\\Assignment02\\Assignment02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vipul Tiwari\\source\\repos\\Assignment02\\Assignment02\\Assignment02.csproj": {
+    "C:\\Users\\rohit\\Desktop\\Assignment02\\Assignment02\\Assignment02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vipul Tiwari\\source\\repos\\Assignment02\\Assignment02\\Assignment02.csproj",
+        "projectUniqueName": "C:\\Users\\rohit\\Desktop\\Assignment02\\Assignment02\\Assignment02.csproj",
         "projectName": "Assignment02",
-        "projectPath": "C:\\Users\\Vipul Tiwari\\source\\repos\\Assignment02\\Assignment02\\Assignment02.csproj",
-        "packagesPath": "C:\\Users\\Vipul Tiwari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vipul Tiwari\\source\\repos\\Assignment02\\Assignment02\\obj\\",
+        "projectPath": "C:\\Users\\rohit\\Desktop\\Assignment02\\Assignment02\\Assignment02.csproj",
+        "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rohit\\Desktop\\Assignment02\\Assignment02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vipul Tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
